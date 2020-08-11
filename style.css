@@ -1,0 +1,175 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    justify-content: space-between;
+}
+#containerft {
+    background-color: rgb(252,245,243);
+}
+.text {
+    font-size: bold;
+    text-align: center;
+    color: black;
+    width: 100%;
+    margin: 30px;
+    padding: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 30px;
+    color: black;
+
+}
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: -5px;
+    text-decoration: none;
+    font-size: 16px;
+    width: 20%;
+    margin: auto;
+}
+.img {
+    text-align: center;
+}
+.article {
+    text-align: center;
+    color: black;
+    margin-top: 90px;
+    font-family: serif;
+}
+.rowps {
+    text-align: center;
+}
+.rowwf {
+}
+.column {
+    background-color: rgb(252,245,243);
+    text-align: center;
+}
+.video {
+    text-align: center;
+    margin-bottom: 150px;
+    margin-top: 150px;
+    
+}
+.design {
+    background-color: lightblue;
+    margin-top: 90px;
+    line-height: 20px;
+    padding: 70px;
+    width: 100%;
+
+}
+.cad-p {
+    font-weight: 900px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+}
+.card {
+    box-shadow: 3px 3px 3px 0px;
+
+}
+.bkground {
+    background-color: rgb(252,245,243);
+}
+.content {
+    margin-top: 300px;
+}
+.star {
+    background-color: lightblue;
+    font-size: 10px;
+    padding-top: 100px;
+    font-family: serif;
+}
+.star,h1 {
+    color: black;
+}
+h3 {
+    font-weight: bold;
+    color: black;
+}
+#logo {
+    background-color: white;
+}
+#logo,.row{
+    padding: 50px;
+}
+#logo,img {
+    fill: grey;
+}
+
+.bi-annual {
+    background-color: white;
+}
+.dollar {
+    background-color: bisque;
+    padding: 20px;
+    font-weight: bold;
+    font-family: serif;
+}.dollar,h6 {
+    color: grey;
+    font-family: sans-serif;
+    padding-top: 150px;
+}
+.dollar,h5 {
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.Grid-center {
+    padding-top: 150px;
+    background-color: white;
+    font-family: serif;
+}
+#summit {
+    padding: 40px;
+    width: 100%;
+    font-size: 15px;
+    margin: auto;
+}
+.footer-header {
+    background-color: rgb(252,245,243);
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Publicoheadline,sans-serif;
+    font-size: 20px;
+    padding: 200px;
+}
+#login {
+    margin: auto;
+    font-size: 16px;
+}
+.footer {
+    background-color: rgb(252,245,243);
+    font-size: 18px;
+    padding: 15px;
+}
+.rowft {
+    margin-top: 50px;
+}
+.footer,li {
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+    line-height: 16px;
+    font-family: serif;
+}
+button {
+    padding: 30px;
+    width: auto;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin: auto;
+}
